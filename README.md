@@ -1,3 +1,3 @@
 # lazy-code
 
-##Code for lazy purpose
+Code for lazy purpose
